@@ -17,7 +17,7 @@ void main()
 	//std::normal_distribution<double> norm_c2(67, 1);
 
 	std::normal_distribution<double> norm_c1(50, 8);
-	std::normal_distribution<double> norm_c2(60, 8);
+	std::normal_distribution<double> norm_c2(79, 4);
 
 	int p[10] = {};
 
